@@ -1,4 +1,4 @@
-name: <GITHUB_REPOSITORY>
+name: llama
 channels:
   - anaconda
   - pytorch
